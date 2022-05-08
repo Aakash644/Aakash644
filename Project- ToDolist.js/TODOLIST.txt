@@ -1,0 +1,13 @@
+Hi Aakash here, i just started javascript with a simple project on TODOLIST.
+The project will involve a TODOLIST that will have below features: 
+*Show the full list items
+*Add items in the list
+*delete items from the list
+*Quit the list 
+
+How the list works?
+#if the input is "list", the console will show the full list.
+#if the input is "add", the console will add the item to the list.
+#if the input is "delete", the console will delete the item from the list.
+#if the input is "quit", the console will quit the session and prompt box will stop appearing. 
+
