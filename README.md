@@ -1,6 +1,6 @@
 ## <h1 align="center">Hi 👋, I'm Aakash Kumar</h1>
 ### <h2 align="center">An Aspiring full-stack developer</h2>
-- ### 🌱 I’m currently learning **Reactjs, Nodejs**
+- ### 🌱 I’m currently learning **Reactjs, Nodejs,Google cloud**
 
 - ### 💬 Ask me about **Python,C/C++,Flask,Bootstrap,Html,Css,Js**
 
