@@ -1,8 +1,8 @@
 ## <h1 align="center">Hi 👋, I'm Aakash Kumar</h1>
 ### <h2 align="center">An Aspiring full-stack developer</h2>
-- ### 🌱 I’m currently learning **Reactjs, Nodejs,Google cloud**
+- ### 🌱 I’m currently learning **Reactjs, Google cloud**
 
-- ### 💬 Ask me about **Python,C/C++,Flask,Bootstrap,Html,Css,Js**
+- ### 💬 Ask me about **Python,C/C++,Flask,Bootstrap,Html,Css,Js,Nodejs, Express**
 
 - ### 📫 How to reach me **Aakash.21BT@dpgitm.ac.in**
 
