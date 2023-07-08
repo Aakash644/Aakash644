@@ -4,7 +4,7 @@
 
 - ### 💬 Ask me about **Python,C/C++,Flask,Bootstrap,Html,Css,Js,Nodejs, Express**
 
-- ### 📫 How to reach me **Aakash.21BT@dpgitm.ac.in**
+- ### 📫 How to reach me **Aakash.21BT@dpgitm.ac.in or www.aakashkumar.space**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
