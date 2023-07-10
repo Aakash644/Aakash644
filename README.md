@@ -1,16 +1,15 @@
-## <h1 align="center">Hi 👋, I'm Aakash Kumar</h1>
-### <h2 align="center">An Aspiring full-stack developer</h2>
-- ### 🌱 I’m currently learning **Reactjs, Google cloud**
+# Aakash kumar
 
-- ### 💬 Ask me about **Python,C/C++,Flask,Bootstrap,Html,Css,Js,Nodejs, Express**
+Welcome to my GitHub profile! Here, you'll find everything about me, and feel free to explore and get in touch.
 
-- ### 📫 How to reach me **Aakash.21BT@dpgitm.ac.in or www.aakashkumar.space**
+## About Me
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aakash-kumar-251ab9185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aakash-kumar-251ab9185/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/aakshkr10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/aakshkr10" height="30" width="40" /></a>
-</p>
+I'm a passionate software developer with a strong focus on Full-stack, DevOps, and blockchain. I enjoy tackling challenging problems and building innovative solutions. 
+
+- #### 🌱 I’m currently learning **Reactjs, Google cloud**
+
+- #### 💬 Ask me about **Python,C/C++,Flask,Bootstrap,Html,Css,Js,Nodejs, Express**
+
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -35,14 +34,48 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/> </a> 
 
- 
- 
- 
 
-  </p>
+## GitHub Stats
 
-  
 <p><img align="center"   src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=aakash644&show_icons=true&locale=en&layout=compact" alt="aakash644" /></p>
-</br>
-
+<br>
 <p>&nbsp;<img align="center"   src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aakash644&show_icons=true&locale=en" alt="aakash644" /></p>
+
+
+For a comprehensive list of my contributions, please refer to my [GitHub profile](https://github.com/<your-username>).
+
+## Contact
+
+I'm always open to interesting projects, collaborations, and opportunities. Thank you for visiting my GitHub profile. I look forward to connecting with you!
+- #### 📫 How to reach me **Aakash.21BT@dpgitm.ac.in or www.aakashkumar.space**
+
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aakash-kumar-251ab9185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aakash-kumar-251ab9185/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/aakshkr10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/aakshkr10" height="30" width="40" /></a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
