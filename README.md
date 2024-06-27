@@ -6,9 +6,9 @@ Welcome to my GitHub profile! Here, you'll find everything about me, and feel fr
 
 I'm a passionate software developer with a strong focus on Full-stack, DevOps, and blockchain. I enjoy tackling challenging problems and building innovative solutions. 
 
-- #### 🌱 I’m currently learning **Reactjs, Google cloud**
+- #### 🌱 I’m currently learning **Reactjs, Google cloud,AWS**
 
-- #### 💬 Ask me about **Python,C/C++,Flask,Bootstrap,Html,Css,Js,Nodejs, Express**
+- #### 💬 Ask me about **Python,C/C++,Java, Flask,Bootstrap,Html,Css,Js,Nodejs, Express, Linux, Jenkins, Docker, Shell scripting, Terraform, Kubernetes **
 
 
 <h2 align="left">Languages and Tools:</h2>
