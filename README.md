@@ -8,7 +8,7 @@ I'm a passionate software developer with a strong focus on Full-stack, DevOps, a
 
 - #### 🌱 I’m currently learning **Reactjs, Google cloud,AWS**
 
-- #### 💬 Ask me about **Python,C/C++,Java, Flask,Bootstrap,Html,Css,Js,Nodejs, Express, Linux, Jenkins, Docker, Shell scripting, Terraform, Kubernetes **
+- #### 💬 Ask me about **Python,C/C++,Java, Flask,Bootstrap,Html,Css,Js,Nodejs, Express, Linux, Jenkins, Docker, Ansible, Shell scripting, Terraform, Kubernetes **
 
 
 <h2 align="left">Languages and Tools:</h2>
